@@ -1,7 +1,6 @@
 # HR-Analytics-
 ![image](https://github.com/user-attachments/assets/20866fff-4a5d-4551-a775-914f75035722)
-
-
+![image](https://github.com/user-attachments/assets/0a30f613-13f2-492a-89e7-dcbb93dfd772)
 
 Project Objective
 
